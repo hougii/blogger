@@ -2,6 +2,8 @@
 
 the page Website： https://hougii.github.io/blogger/
 
+this is the test
+
 You can use the [editor on GitHub](https://github.com/hougii/blogger/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -37,3 +39,19 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+### write table
+| col   | col2 | col3   |
+| ----- | ---- | ------ |
+| hello | hel2 | hello3 |
+
+
+
+| Age          | Time  | Food | Gold | Requirement             |
+| ------------ | :---: | ---: | ---: | ----------------------- |
+| Feudal Age   | 02:10 | 500  | 0    | Dark Age building x 2   |
+| Castle Age   | 02:40 | 800  | 200  | Feudal Age building x 2 |
+| Imperial Age | 03:30 | 1000 | 800  | Castle Age building x 2 |
+
+

@@ -1,3 +1,8 @@
 theme: jekyll-theme-architect
 title: hogii Develop blogger
 description: this is my custom description (TODO)
+show_downloads:false
+google_analytics:false
+github:
+  zip_url:
+  another_url:  
