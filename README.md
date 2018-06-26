@@ -1,57 +1,37 @@
-## Welcome to GitHub Pages
+# Flexible-Jekyll is a simple and clean theme for Jekyll
 
-the page Website： https://hougii.github.io/blogger/
+![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
 
-this is the test
+## Demo
 
-You can use the [editor on GitHub](https://github.com/hougii/blogger/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The main page would look like this:
 
-### Markdown
+![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The post page would look like this:
 
-```markdown
-Syntax highlighted code block
+![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
 
-# Header 1
-## Header 2
-### Header 3
+## Features
 
-- Bulleted
-- List
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](http://fontawesome.io/)
+- [Disqus](https://disqus.com/)
+- [Analytics](https://analytics.google.com/analytics/web/)
+- Support Emoji
 
-1. Numbered
-2. List
+## Installation:
 
-**Bold** and _Italic_ and `Code` text
+Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
 
-[Link](url) and ![Image](src)
-```
+## License
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+GNU General Public License v3.0
 
-### Jekyll Themes
+## Donate
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hougii/blogger/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-
-### write table
-| col   | col2 | col3   |
-| ----- | ---- | ------ |
-| hello | hel2 | hello3 |
-
-
-
-| Age          | Time  | Food | Gold | Requirement             |
-| ------------ | :---: | ---: | ---: | ----------------------- |
-| Feudal Age   | 02:10 | 500  | 0    | Dark Age building x 2   |
-| Castle Age   | 02:40 | 800  | 200  | Feudal Age building x 2 |
-| Imperial Age | 03:30 | 1000 | 800  | Castle Age building x 2 |
-
-
+<p>If you want to show your appreciation, buy me one <a href="https://www.buymeacoffee.com/artemsheludko" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> ! Every five cups of coffee and a new theme for Jekyll is ready 😋</p>
+<p>Either way, your support is a way to thank me ❤️</p>
+<p align="center"><b>Thank you for your support!</b></p>
